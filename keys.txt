@@ -1,0 +1,4 @@
+# DatDanillaHub keys
+# each line is sha256("DatDanillaHub|v1|2026" .. key)
+# the working key for this file is: shrek
+caa029e5cae80c3092b3abb662c7d62ed900b457f4219bd54fee3b81c4302f1f
